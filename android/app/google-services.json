@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91059662573",
+    "project_id": "signin-3dfad",
+    "storage_bucket": "signin-3dfad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91059662573:android:a385e560e000c2398ce6e4",
+        "android_client_info": {
+          "package_name": "com.example.google_authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91059662573-png7483o57u96grrrfgl3go9cd537grm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2cBs4oV-AjdlKsLAZo8cMvRSurRcu0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91059662573-png7483o57u96grrrfgl3go9cd537grm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
